@@ -1,0 +1,7 @@
+testing process file
+- request finance
+- loan repay
+
+- release limit -> tidak mempengaruhi transaksi
+- reserve limit -> partial dan failed full and success full
+- cancel req fin -> kalau tgl 1 invoice yg postdated yg lain gagal akan menggagalkan transaksi req fin post dated

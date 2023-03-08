@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="yohansen_octavianto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/yohansen_octavianto_jar</output-path>
+    <root id="archive" name="yohansen_octavianto.jar">
+      <element id="module-output" name="yohansen_octavianto" />
+    </root>
+  </artifact>
+</component>
